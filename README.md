@@ -1,4 +1,4 @@
-![MainGif](https://thumbs.gfycat.com/GleefulFatHousefly-size_restricted.gif)
+![MainGif](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 # CIDM-4390: Software System Analysis and Design
 A capstone course for the study of software engineering, Emphasis on requirement specifications, logical design, issues in OOP, design pattern, client-server computing, project management. Students construct original and significant projects that synthesize all course experiences to produce well-designed software applications.
