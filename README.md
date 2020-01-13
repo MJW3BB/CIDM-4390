@@ -6,7 +6,8 @@ More content will be added as the course continues, in the mean time there are a
 
 ### Install The Following Applications
 * [Visual Studio Code](https://code.visualstudio.com/download) - Editor
-* [Git](https://git-scm.com/download) - Package manager for VS Code
+* [Git](https://git-scm.com/download) - Shell
+* [Node.js](https://nodejs.org/en/) - Package Manager
 
 ### Run The Commands
 Switch VS Code default shell over to Git Bash
