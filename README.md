@@ -6,6 +6,7 @@ More content will be added as the course continues, in the mean time there are a
 
 ### Install The Following Applications
 * [Visual Studio Code](https://code.visualstudio.com/download) - Editor
+* [.NET Core SDK](https://dotnet.microsoft.com/download) - .NET Core SDK Tools
 * [Git](https://git-scm.com/download) - Shell
 * [Node.js](https://nodejs.org/en/) - Package Manager
 

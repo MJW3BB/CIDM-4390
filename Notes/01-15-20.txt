@@ -1,0 +1,31 @@
+CIDM-4390 Notes
+---------------
+Jan 15, 2020
+---------------
+- Set default shell to Bash!
+- We will have 4 teams of 4.
+
+Install .NET Core SDK - https://dotnet.microsoft.com/download
+Software versions go in order of MAJOR, MINOR, PATCH - https://semver.org/
+Application Programing Interface - https://en.wikipedia.org/wiki/Application_programming_interface
+What is the role the each artifact plays? - https://www.agilemodeling.com/
+Use Case Diagram - http://agilemodeling.com/style/useCaseDiagram.htm
+
+    - An application programming interface (API) is an interface or communication protocol between different parts of a computer program intended to simplify the implementation and maintenance of software.
+    - An API may be for a web-based system, operating system, database system, computer hardware, or software library.
+    - An API specification can take many forms, but often includes specifications for routines, data structures, object classes, variables, or remote calls. POSIX, Windows API and ASPI are examples of different forms of APIs. Documentation for the API usually is provided to facilitate usage and implementation.
+    - More recently, the term has been often used to refer to a specific kind of interface between a client and a server, which has been described as a “contract” between both - such that if the client makes a request in a specific format, it will always get a response in a specific format or initiate a defined action.[1] This is a specialized form of API, sometimes defined as a Web API.
+
+The Premise of this class is the waterfall developmental model process to add value to clients
+
+View Models
+-----------
+MVC, CLS (Class Library Services), Testing
+-----------
+
+View Models --> Domain Model Library --> Repository --> Database
+
+Your team does not yet understand what this means, you will be working in this all semester
+
+
+
