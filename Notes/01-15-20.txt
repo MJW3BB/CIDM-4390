@@ -30,3 +30,7 @@ Your team does not yet understand what this means, you will be working in this a
 Refer to sequence diagrams - https://www.agilemodeling.com/artifacts/sequenceDiagram.htm
 
 
+The database to persist the state of the application since most applications are terminated after they are run
+
+
+
