@@ -27,5 +27,6 @@ View Models --> Domain Model Library --> Repository --> Database
 
 Your team does not yet understand what this means, you will be working in this all semester
 
+Refer to sequence diagrams - https://www.agilemodeling.com/artifacts/sequenceDiagram.htm
 
 

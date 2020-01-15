@@ -39,3 +39,5 @@ As indicated above, I would like for you to place all of these diagrams into a s
 1. Any original Draw.IO exports (PDF) and/or Visual Studio Code project/source files
 2. Your final Microsoft Word document containing all of the above diagrams
 3. Any other supporting materials
+
+### Due Date - Monday, January 20, 2020 @ 11:59PM
