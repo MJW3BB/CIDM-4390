@@ -32,5 +32,9 @@ Refer to sequence diagrams - https://www.agilemodeling.com/artifacts/sequenceDia
 
 The database to persist the state of the application since most applications are terminated after they are run
 
+Review
+------
+Technical indebtidness
+Follow the roadmap
 
 
