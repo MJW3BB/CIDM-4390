@@ -10,9 +10,10 @@ More content will be added as the course continues, in the mean time there are a
 * [Git](https://git-scm.com/download) - Shell
 * [Node.js](https://nodejs.org/en/) - Package Manager
 
-### Run The Commands
-Switch VS Code default shell over to Git Bash
-```
-npm install dotnet
-```
-![MainGif](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+### Useful items for reference
+* [Agile Modeling Docs](http://agilemodeling.com/style/useCaseDiagram.htm)
+* [Azure Dev Ops](https://azure.microsoft.com/en-us/services/devops/)
+* [Gitignore.io](http://gitignore.io/)
+* [Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+
+![RUMBLE](https://media.giphy.com/media/3aGZA6WLI9Jde/giphy.gif)
