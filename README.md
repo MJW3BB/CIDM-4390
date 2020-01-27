@@ -15,5 +15,12 @@ More content will be added as the course continues, in the mean time there are a
 * [Azure Dev Ops](https://azure.microsoft.com/en-us/services/devops/)
 * [Gitignore.io](http://gitignore.io/)
 * [Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+* [Figma](https://www.figma.com/)
+* [SCRUM Guide](https://www.scrumguides.org/scrum-guide.html)
+ * [Gherkin Notation/Syntax](https://cucumber.io/docs/gherkin/reference/)
+ * [Planning Poker](https://www.planningpoker.com/)
+
+### Map Of SCRUM Framework
+ ![alt text](https://innolution.com/uploads/misc/scrum_framework_practice_activity_duration.jpg)
 
 ![RUMBLE](https://media.giphy.com/media/3aGZA6WLI9Jde/giphy.gif)
