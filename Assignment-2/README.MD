@@ -17,3 +17,5 @@ This is paired assignment. You will work with a partner to be assigned at a late
 3. Must include Pair Retrospective and Review report
 
 ### Due Date - Sunday, January 26, 2020 @ 11:59PM
+
+![RUMBLE](https://media.giphy.com/media/3aGZA6WLI9Jde/giphy.gif)
